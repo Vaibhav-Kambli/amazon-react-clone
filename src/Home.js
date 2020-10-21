@@ -16,7 +16,7 @@ function Home() {
 					<Product
 						id="1221456"
 						title="SYLVANIA Smart+ WiFi Full Color Dimmable A19 LED Light Bulb"
-						price={62.3}
+						price={62.32}
 						image="https://m.media-amazon.com/images/I/41NU-LgtriL._AC_SY322_.jpg"
 						rating={5}
 					/>
