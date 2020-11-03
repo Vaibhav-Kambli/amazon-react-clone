@@ -10,6 +10,12 @@
 	border-radius: 3px;
 }
 
+.subtotal > span {
+	text-align: center;
+	color: red;
+	font-size: 12px;
+}
+
 .subtotal__gift {
 	display: flex;
 	align-items: center;

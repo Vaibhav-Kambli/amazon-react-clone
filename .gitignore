@@ -6,12 +6,17 @@
 .pnp.js
 
 /src/firebase.js
+.firebaserc
+.firebase/hosting.YnVpbGQ.cache
+.firebase.json
 
 # testing
 /coverage
 
 # production
 /build
+
+/functions
 
 # misc
 .DS_Store
