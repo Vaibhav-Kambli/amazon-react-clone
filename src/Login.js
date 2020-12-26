@@ -75,7 +75,7 @@ function Login() {
 					Interesr-Based Ads Notice.
 				</p>
 				<button onClick={register} className="login__registerButton">
-					Create yout Amazon Account
+					Create your Amazon Account
 				</button>
 			</div>
 		</div>
